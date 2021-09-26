@@ -29,3 +29,8 @@ Typically cookies are used to store identifying tokens for authentication, sessi
 session data usually relies on a cookie token to identify the user for repeat visits (although rarely URL parameters may be used for the same purpose)
 As session data is completely controlled by your application (server side) it is the best place for anything sensitive or secure in nature.
 
+
+
+## ToDo
+- Simple Vue SPA for this illustration.
+- Display a table that compare all the example.

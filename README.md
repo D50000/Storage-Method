@@ -32,5 +32,10 @@ As session data is completely controlled by your application (server side) it is
 
 
 ## ToDo
-- Simple Vue SPA for this illustration.
+- Simple Vue SPA for this illustration.Use @vue/cli and install by npm `install -g @vue/cli`.Install **nvm** for managing multiple node version.
+- https://cli.vuejs.org/guide/installation.html. 
 - Display a table that compare all the example.
+    - Create new vue project
+    - Support RWD for different devices
+    - Build release source code
+    - Deploy to github page
